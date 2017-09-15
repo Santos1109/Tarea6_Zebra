@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/saint/Desktop/Examen2Dragon-master/Evaluador.cpp" "C:/Users/saint/Desktop/Examen2Dragon-master/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/Evaluador.cpp.obj"
-  "C:/Users/saint/Desktop/Examen2Dragon-master/NodoNario.cpp" "C:/Users/saint/Desktop/Examen2Dragon-master/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/NodoNario.cpp.obj"
-  "C:/Users/saint/Desktop/Examen2Dragon-master/Pais.cpp" "C:/Users/saint/Desktop/Examen2Dragon-master/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/Pais.cpp.obj"
-  "C:/Users/saint/Desktop/Examen2Dragon-master/main.cpp" "C:/Users/saint/Desktop/Examen2Dragon-master/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/main.cpp.obj"
+  "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Evaluador.cpp" "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/Evaluador.cpp.obj"
+  "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/NodoNario.cpp" "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/NodoNario.cpp.obj"
+  "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Pais.cpp" "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/Pais.cpp.obj"
+  "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/main.cpp" "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/cmake-build-debug/CMakeFiles/Examen2Dragon_master.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

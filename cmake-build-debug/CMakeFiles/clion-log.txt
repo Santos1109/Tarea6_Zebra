@@ -1,4 +1,4 @@
-C:\Users\saint\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.3968.17\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\saint\Desktop\Examen2Dragon-master
+C:\Users\saint\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.3968.17\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\saint\Documents\GitHub\Megamann\Tarea6_Zebra
 -- The C compiler identification is GNU 5.3.0
 -- The CXX compiler identification is GNU 5.3.0
 -- Check for working C compiler: C:/MinGW/bin/gcc.exe
@@ -15,4 +15,4 @@ C:\Users\saint\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.3968.17\bin\c
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/saint/Desktop/Examen2Dragon-master/cmake-build-debug
+-- Build files have been written to: C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/cmake-build-debug

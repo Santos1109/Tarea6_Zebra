@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/saint/Desktop/Examen2Dragon-master
+# Install script for directory: C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/saint/Desktop/Examen2Dragon-master/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

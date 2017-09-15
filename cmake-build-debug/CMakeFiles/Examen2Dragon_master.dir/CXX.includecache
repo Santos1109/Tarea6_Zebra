@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/saint/Desktop/Examen2Dragon-master/Evaluador.cpp
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Evaluador.cpp
 Evaluador.h
-C:/Users/saint/Desktop/Examen2Dragon-master/Evaluador.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Evaluador.h
 
-C:/Users/saint/Desktop/Examen2Dragon-master/Evaluador.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Evaluador.h
 Pais.h
-C:/Users/saint/Desktop/Examen2Dragon-master/Pais.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Pais.h
 NodoNario.h
-C:/Users/saint/Desktop/Examen2Dragon-master/NodoNario.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/NodoNario.h
 iostream
 -
 stack
@@ -28,23 +28,23 @@ map
 list
 -
 
-C:/Users/saint/Desktop/Examen2Dragon-master/NodoNario.cpp
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/NodoNario.cpp
 NodoNario.h
-C:/Users/saint/Desktop/Examen2Dragon-master/NodoNario.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/NodoNario.h
 
-C:/Users/saint/Desktop/Examen2Dragon-master/NodoNario.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/NodoNario.h
 vector
 -
 
-C:/Users/saint/Desktop/Examen2Dragon-master/Pais.cpp
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Pais.cpp
 Pais.h
-C:/Users/saint/Desktop/Examen2Dragon-master/Pais.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Pais.h
 
-C:/Users/saint/Desktop/Examen2Dragon-master/Pais.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Pais.h
 iostream
 -
 
-C:/Users/saint/Desktop/Examen2Dragon-master/main.cpp
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/main.cpp
 iostream
 -
 list
@@ -60,9 +60,9 @@ set
 map
 -
 Pais.h
-C:/Users/saint/Desktop/Examen2Dragon-master/Pais.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Pais.h
 Evaluador.h
-C:/Users/saint/Desktop/Examen2Dragon-master/Evaluador.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/Evaluador.h
 NodoNario.h
-C:/Users/saint/Desktop/Examen2Dragon-master/NodoNario.h
+C:/Users/saint/Documents/GitHub/Megamann/Tarea6_Zebra/NodoNario.h
 
